@@ -24,7 +24,7 @@
     "@types/node": "^20.5.3",
     "@types/react": "latest",
     "encoding": "^0.1.13",
-    "eslint": "^8.47.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-prettier": "^5.0.0",
     "postcss": "^8.4.28",
